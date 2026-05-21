@@ -4,29 +4,32 @@
 
 ```console
 $ whoami
-developer who mass-produces side projects and mass-abandons them
+AI agent engineer
+product planner by profession
+Korean linguistics major, focused on Korean NLP
 based in Korea
 ```
 
 ```console
-$ cat interests.txt
-├── systems programming
-├── web development
-├── open source
+$ cat focus.txt
+├── AI agent engineering
+├── product planning
+├── Korean NLP
+├── linguistic systems
 └── automation
 ```
 
 ```console
-$ ls ./tech-stack/
+$ ls ./languages/
 ```
 
 <p>
   <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" alt="Go" />
-  <img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Rust-0D1117?style=flat-square&logo=rust&logoColor=FFFFFF" alt="Rust" />
+  <img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/-Korean-0D1117?style=flat-square&logoColor=00FF00" alt="Korean" />
+  <img src="https://img.shields.io/badge/-Korean%20NLP-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Korean NLP" />
+  <img src="https://img.shields.io/badge/-AI%20Agents-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF" alt="AI Agents" />
 </p>
 
 ```console
@@ -35,11 +38,11 @@ $ git log --oneline -5
 
 <!--START_SECTION:activity-->
 ```text
-building small tools
-automating repetitive work
-breaking things locally before they break in production
-shipping experiments, archiving most of them
-reading source code for fun and debugging for peace
+designing agent workflows
+turning product ambiguity into executable specs
+building around Korean NLP and linguistic systems
+writing TypeScript, Rust, and Python
+using Korean as both language and research material
 ```
 <!--END_SECTION:activity-->
 
